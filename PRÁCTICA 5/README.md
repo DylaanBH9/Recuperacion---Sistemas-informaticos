@@ -1,4 +1,4 @@
-# Mini-Nmap Casero (Python) — README
+# Nmap Casero (Python) — README
 
 > Herramienta CLI que **escanea puertos TCP** en una dirección IP para determinar cuáles están abiertos o cerrados.
 
